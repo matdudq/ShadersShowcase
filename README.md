@@ -8,6 +8,7 @@
   - [Diffuse Specular](#diffuse-specular)
   - [Diffuse Specular IBL](#diffuse-specular-IBL)
   - [Fresnell Mask](#fresnell-mask)
+  - [Fantasy Skybox](#fantasy-skybox)
 - [Sources](#sources)
 - [License](#license)
 
@@ -25,6 +26,9 @@
 
 #### Fresnell Mask <a name="fresnell-mask"></a>
 <img src="https://imgur.com/8hmKiuZ.png">
+
+#### Fantasy Skybox <a name="fantasy-skybox"></a>
+<img src="https://i.imgur.com/SLpML5N.gif">
  
 ## Sources <a name="sources"></a>
 Freya course: https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA
