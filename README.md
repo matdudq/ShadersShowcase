@@ -35,6 +35,8 @@ Freya course: https://www.youtube.com/channel/UC7M-Wz4zK8oikt6ATcoTwBA
 
 Catlike coding: https://catlikecoding.com/unity/tutorials/rendering/
 
+The Art of Code: https://www.youtube.com/c/TheArtofCodeIsCool
+
 ## License <a name="license"></a>
  
 [MIT](https://opensource.org/licenses/MIT)
